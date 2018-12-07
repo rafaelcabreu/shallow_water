@@ -6,6 +6,7 @@ dependencies:
   - matplotlib
   - cartopy
   - numpy
+  - ipywidgets
   - pip
   - pip:
     -  julia 
